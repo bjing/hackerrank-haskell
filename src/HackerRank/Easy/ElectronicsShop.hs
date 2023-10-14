@@ -1,6 +1,6 @@
 {-# LANGUAGE FlexibleInstances, UndecidableInstances, DuplicateRecordFields #-}
 
-module ElectronicsShop where
+module HackerRank.Easy.ElectronicsShop where
 
 import Control.Monad
 import Data.List
