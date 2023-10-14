@@ -20,6 +20,8 @@ description:         Simple Haskell project template
 
 dependencies:
 - base >= 4.7 && < 5
+- split
+- containers
 
 library:
   source-dirs: src
